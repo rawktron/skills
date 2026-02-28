@@ -1,4 +1,4 @@
-# UXL Vocabulary
+# UX Vocabulary
 
 A ~45-word shared vocabulary for describing user interfaces in plain English -- precisely.
 
@@ -8,7 +8,7 @@ Describing UX to an AI (or anyone) in natural language is frustrating. "Put thes
 
 ## The Solution
 
-UXL is a glossary, not a language. ~45 words with exact, unambiguous definitions. You write in normal conversational English and reach for these words when precision matters. Everything else stays natural.
+UX vocabulary is a glossary, not a language. ~45 words with exact, unambiguous definitions. You write in normal conversational English and reach for these words when precision matters. Everything else stays natural.
 
 **Before:** "I want the sidebar to like, get smaller when you click on something in the main area, and the main area should take up more space"
 
@@ -43,7 +43,7 @@ Full definitions are in [`references/glossary.md`](references/glossary.md).
 
 ## Usage
 
-Install as a Claude skill. Then just talk normally and use UXL words when you need precision. Claude will interpret them as exact specs, not suggestions.
+Install as a Claude skill. Then just talk normally and use UX vocabulary words when you need precision. Claude will interpret them as exact specs, not suggestions.
 
 The glossary is deliberately small (~45 words). If you need a word that isn't there, define it in conversation and it becomes part of the working vocabulary for that session.
 

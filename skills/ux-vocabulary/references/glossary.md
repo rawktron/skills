@@ -1,4 +1,4 @@
-# UXL Glossary
+# UX Vocabulary Glossary
 
 ~40 words. Each means exactly one thing. Use them in plain English when you
 need precision. Everything else stays conversational.

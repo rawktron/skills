@@ -1,12 +1,12 @@
 ---
-name: uxl-vocabulary
+name: ux-vocabulary
 version: 1.0.0
 author: rawktron
 license: MIT
 description: >
   A shared UX vocabulary for precise conversational descriptions of interfaces.
   Use this skill whenever the user describes a UI, UX flow, interaction, or layout
-  using words from the UXL glossary -- such as morph, grow, yield, rail, selectable,
+  using words from the UX glossary -- such as morph, grow, yield, rail, selectable,
   overlay, skeleton, snappy, mark-and-undo, etc. Also trigger when the user is
   describing any interface behavior and you need to resolve ambiguity about what
   they mean. This skill defines ~40 words with exact meanings so the user can
@@ -14,7 +14,7 @@ description: >
   do NOT interpret them loosely -- they have specific agreed-upon definitions.
 ---
 
-# UXL -- UX Vocabulary
+# UX Vocabulary
 
 ## What This Is
 
@@ -43,7 +43,7 @@ interpret normally.
 ## The Glossary
 
 See `references/glossary.md` for the full glossary organized by question.
-Read it before interpreting any UXL description.
+Read it before interpreting any UX description.
 
 ## Interpreting a Description
 
