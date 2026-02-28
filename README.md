@@ -10,7 +10,7 @@ Skills are reusable instruction sets for AI Agents. They teach agents how to han
 
 | Skill | Description |
 |-------|-------------|
-| [ux-vocabulary](ux-vocabulary/) | A ~45-word UX vocabulary for describing interfaces in plain English with precision. Eliminates the ambiguity of natural language UX descriptions without reverting to code. |
+| [ux-vocabulary](skills/ux-vocabulary/) | A ~45-word UX vocabulary for describing interfaces in plain English with precision. Eliminates the ambiguity of natural language UX descriptions without reverting to code. |
 
 ## Installing
 
